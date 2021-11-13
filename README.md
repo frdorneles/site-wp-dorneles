@@ -9,6 +9,8 @@ Sobre o projeto, temos uma aplicação hipoteticamente criada para exemplificar 
 
 ## **Modelo Conceitual**
 
+Para repositório foi criado um cídigo de exemplo para ser configurado dentro do Wordpress em demonstração a um SITE criado pelo aluno.
+
 ## **Tecnologias Utilizadas**
 - Ansible
 - WordPress
